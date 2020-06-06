@@ -1,2 +1,2 @@
-# movie-plots.gitub.io
+# movie-plots.github.io
 Movie filter page
